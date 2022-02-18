@@ -1,15 +1,9 @@
 # Extra-tropical Cyclone Diagnostic Tool 
-## Created by Jeyavinoth Jeyaratnam (The City College of New York, CUNY)
+## Code written by Mike Bauer during his time at NASA GISS
+## This repo created by Jeyavinoth Jeyaratnam (while at CUNY GC)
+## Now maintained by James Booth (at CCNY and CUNY GC)
 
-Last Modified: Jan 24th, 2020
-
-# Custom Notes:
-
-All needed data is in /localdrive/drive6/.
-
-the code for the converts are in /localdrive/drive10/mcms\_tracker/data\_preprocessing
-
-
+Last Modified: Feb 18th, 2022
 
 
 # Modules
