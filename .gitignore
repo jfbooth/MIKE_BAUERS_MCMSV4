@@ -1,0 +1,37 @@
+# data files
+*.dat
+*.mat
+*.nc
+*.nc4
+*.txt
+*.tar
+*.tar.gz
+*.gz
+
+# images 
+*.png
+
+# backup files 
+
+# other file types
+*.nfs*
+*.nfs
+*.pyc
+*.py~
+
+# folders to omit 
+del_b4_commit*
+*.swp
+
+# folders to omit
+del_b4_commit/*
+
+# image folders
+datacyc/images/*
+
+# remove rundir
+RUNDIR/
+
+# pycache
+__pycache__
+*__pycache__*
